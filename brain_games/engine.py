@@ -20,5 +20,5 @@ def please_go_game(game):
             print('Correct answer was ' + str(correct_answer))
             print("Let's try again, " + player_name + '!')
             return
-    print('Congrats, ' + player_name + '!')
+    print('Congratulations, ' + player_name + '!')
 	
