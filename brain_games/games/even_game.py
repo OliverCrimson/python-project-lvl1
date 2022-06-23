@@ -16,4 +16,3 @@ def form_task_and_answer():
     else:
         right_answer = 'no'
     return game_task, right_answer
-

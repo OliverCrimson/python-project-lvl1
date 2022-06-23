@@ -21,4 +21,3 @@ def please_go_game(game):
             print("Let's try again, " + player_name + '!')
             return
     print('Congratulations, ' + player_name + '!')
-	
