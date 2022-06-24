@@ -9,3 +9,12 @@
 
 ### Brain-calc demo:
 [![asciicast](https://asciinema.org/a/aLJv1F2mLIn0pmwntGoaDSxdl.svg)](https://asciinema.org/a/aLJv1F2mLIn0pmwntGoaDSxdl)
+
+### Brain-gcd demo:
+[![asciicast](https://asciinema.org/a/4UMSLpyZ2sjFiZ33joOgg1f6J.svg)](https://asciinema.org/a/4UMSLpyZ2sjFiZ33joOgg1f6J)
+
+### Brain-progression demo:
+[![asciicast](https://asciinema.org/a/MyMMU3smNEEQAzsQfkqU1wf2J.svg)](https://asciinema.org/a/MyMMU3smNEEQAzsQfkqU1wf2J)
+
+### Brain-prime demo:
+[![asciicast](https://asciinema.org/a/63gUcGPQw7PK0o6poPJ894Mmx.svg)](https://asciinema.org/a/63gUcGPQw7PK0o6poPJ894Mmx)
