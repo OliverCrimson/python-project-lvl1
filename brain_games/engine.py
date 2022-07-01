@@ -10,8 +10,8 @@ def please_go_game(game):
     print('Hello, ' + player_name + '!')
     print(game.DESCRIPT)
     for i in range(NUM_OF_ROUNDS):
-        game_task, correct_answer = game.form_task_and_answer()
-        print('Question: ' + game_task)
+        question, correct_answer = game.form_task_and_answer()
+        print('Question: ' + question)
         player_answer = prompt.string('Your answer: ')
         if str(correct_answer) == player_answer:
             print('Correct!')
