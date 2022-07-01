@@ -20,13 +20,14 @@ The games are:
 	
 
 Installation:
--Save dist folder on your computer and run $make package-install
--After package is installed, run any of the following commands through console.
--brain-calc to run calculator game.
--brain-progression to run find-missing-number in progression list game.
--brain-even to run game where you should choose whether the shown number is even or not.
--brain-gcd runs the greatest common divisor game.
--brain-prime runs game where you should answer if shown number is prime or not.
+
+    -Save dist folder on your computer and run $make package-install
+    -After package is installed, run any of the following commands through console.
+    -brain-calc to run calculator game.
+    -brain-progression to run find-missing-number in progression list game.
+    -brain-even to run game where you should choose whether the shown number is even or not.
+    -brain-gcd runs the greatest common divisor game.
+    -brain-prime runs game where you should answer if shown number is prime or not.
 
 ### Brain-even demo:
 [![asciicast](https://asciinema.org/a/014Tr6bAwffjtYYT8wDHTksoD.svg)](https://asciinema.org/a/014Tr6bAwffjtYYT8wDHTksoD)
