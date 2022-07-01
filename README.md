@@ -14,7 +14,7 @@ The games are:
 
     -Even-game, where you should answer if the digit shown is even or not.
     -Finding the greatest common divisor among two shown digits.
-    -Progression. A list of numbers is shown you, but one digit is missing. You type missing digit.
+    -Progression. A list of numbers is shown you, but one digit is missing. You should type missing digit.
     -Prime numbers. You should tell whether shown number is prime or not.
     -Calculator. There you should solve an expression.
 	
