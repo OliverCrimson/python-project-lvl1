@@ -11,21 +11,21 @@ If you give wrong answer, the game ends and you can run it again.
 
 
 The games are:
-	Even-game, where you should answer if the digit shown is even or not.
-	Finding the greatest common divisor among two shown digits.
-	Progression. A list of numbers is shown you, but one digit is missing. You type missing digit.
-	Prime numbers. You should tell whether shown number is prime or not.
-	Calculator. There you should solve an expression.
+-Even-game, where you should answer if the digit shown is even or not.
+-Finding the greatest common divisor among two shown digits.
+-Progression. A list of numbers is shown you, but one digit is missing. You type missing digit.
+-Prime numbers. You should tell whether shown number is prime or not.
+-Calculator. There you should solve an expression.
 	
 
 Installation:
-	Save dist folder on your computer and run $make package-install
-	After package is installed, run any of the following commands through console.
-	brain-calc to run calculator game.
-	brain-progression to run find-missing-number in progression list game.
-	brain-even to run game where you should choose whether the shown number is even or not.
-	brain-gcd runs the greatest common divisor game.
-	brain-prime runs game where you should answer if shown number is prime or not.
+-Save dist folder on your computer and run $make package-install
+-After package is installed, run any of the following commands through console.
+-brain-calc to run calculator game.
+-brain-progression to run find-missing-number in progression list game.
+-brain-even to run game where you should choose whether the shown number is even or not.
+-brain-gcd runs the greatest common divisor game.
+-brain-prime runs game where you should answer if shown number is prime or not.
 
 ### Brain-even demo:
 [![asciicast](https://asciinema.org/a/014Tr6bAwffjtYYT8wDHTksoD.svg)](https://asciinema.org/a/014Tr6bAwffjtYYT8wDHTksoD)
