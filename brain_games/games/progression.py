@@ -23,4 +23,5 @@ def progression_shape(first_digit, ending_row, differ):
 def list_to_string(progression, invisible_index):
     progression = list(progression)
     return " ".join(str(s) if i != invisible_index else ".." for i,
-                    s in enumerate(progression))
+                   s in enumerate(progression))
+
