@@ -9,7 +9,7 @@ def form_task_and_answer():
     first_num = randint(1, 99)
     second_num = randint(1, 99)
     sign = choice('+-*')
-    question = ('{x} {y} {z}'.format(x=first_num, y=sign, z=second_num))
+    question = f'{first_num} {sign} {second_num}'
     if sign == '+':
         result = add(first_num, second_num)
     elif sign == '-':

@@ -6,7 +6,7 @@ DESCRIPT = "Answer 'yes' if given number is prime. Otherwise answer 'no'."
 
 def form_task_and_answer():
     number = randint(1, 99)
-    question = ('{x}'.format(x=number))
+    question = f'{number}'
     if is_prime(number):
         result = 'yes'
     else:
