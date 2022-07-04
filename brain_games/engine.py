@@ -16,7 +16,8 @@ def please_go_game(game):
         if str(correct_answer) == player_answer:
             print('Correct!')
         else:
-            
-            print(f"{player_answer} is wrong answer ;(.\nCorrect answer was {correct_answer}\nLet's try again, {player_name}!")
+            print(f"{player_answer} is wrong answer ;(.\n"
+                  f"Correct answer was {correct_answer}\n"
+                  f"Let's try again, {player_name}!")
             return
     print(f'Congratulations, {player_name}!')
