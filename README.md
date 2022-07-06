@@ -17,10 +17,12 @@ The games are:
     -Progression. A list of numbers is shown you, but one digit is missing. You should type missing digit.
     -Prime numbers. You should tell whether shown number is prime or not.
     -Calculator. There you should solve an expression.
-	
+
+
 
 Installation:
 
+    -Progremm requires linux as an OS, keyboard. Python ^3.8, prompt ^0.4.1
     -Save dist folder on your computer and run $make package-install
     -After package is installed, run any of the following commands through console.
     -brain-calc to run calculator game.
@@ -28,6 +30,11 @@ Installation:
     -brain-even to run game where you should choose whether the shown number is even or not.
     -brain-gcd runs the greatest common divisor game.
     -brain-prime runs game where you should answer if shown number is prime or not.
+
+
+Uninstall:
+
+    -To ununstall programm enter $make uninstall
 
 ### Brain-even demo:
 [![asciicast](https://asciinema.org/a/014Tr6bAwffjtYYT8wDHTksoD.svg)](https://asciinema.org/a/014Tr6bAwffjtYYT8wDHTksoD)
