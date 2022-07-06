@@ -15,6 +15,8 @@ def form_task_and_answer():
 
 
 def is_prime(digit):
+    if digit < 2:
+        return False
     div = 2
     while digit % div != 0:
         div += 1
