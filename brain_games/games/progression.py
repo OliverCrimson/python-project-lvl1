@@ -10,5 +10,5 @@ def form_task_and_answer():
     progression = list(range(first_digit, ending_row, differ))
     invisible_index = str(choice(progression))
     progression = ' '.join(map(str, progression))
-    question = progression.replace(invisible_index, '..')
+    question = progression.replace(invisible_index, '..', 1)
     return question, invisible_index
