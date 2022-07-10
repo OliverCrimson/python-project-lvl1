@@ -13,7 +13,7 @@ def run_game(game):
         question, correct_answer = game.form_task_and_answer()
         print(f'Question: {question}')
         player_answer = prompt.string('Your answer: ')
-        if str(correct_answer) == player_answer:
+        if correct_answer == player_answer:
             print('Correct!')
         else:
             print(f"{player_answer} is wrong answer ;(.\n"
